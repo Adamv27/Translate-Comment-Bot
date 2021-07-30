@@ -1,4 +1,5 @@
 # Translate Comment Bot
+Translate Comment Bot is a reddit bot using the praw API. It will translate a parent comment to any requested language support by Google translate.
 ## How to use Translate Comment Bot
 
 Call the bot by replaying to a comment with your bots u/ and then the language you would like to translate to.
